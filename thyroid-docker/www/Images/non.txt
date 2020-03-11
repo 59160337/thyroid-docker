@@ -1,0 +1,2 @@
+Upload this file : /tmp/phpKdmlIL
+to this file : ./Images/myImage_786.jpg
